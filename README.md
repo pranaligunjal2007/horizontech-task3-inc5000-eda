@@ -73,6 +73,7 @@ The project includes:
 - Average growth by industry
 - Relationship between workers and revenue
 
+
 ## 💡 Key Insights
 
 - The dataset contains approximately 5,000 companies from different industries.
