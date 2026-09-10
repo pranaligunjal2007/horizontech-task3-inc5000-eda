@@ -106,6 +106,6 @@ This project provided practical experience in **data cleaning, statistical analy
 
 ## 👩‍💻 Internship Project
 
-**Organization:** Horizon Tech  
+**Organization:** Horizon Techx  
 **Task:** Task 3 – Data Analysis & Exploratory Data Analysis  
 **Domain:** Artificial Intelligence & Data Science
